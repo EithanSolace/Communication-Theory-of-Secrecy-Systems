@@ -1,0 +1,5 @@
+{
+  "name": "Shannon's Secrecy Systems Presentation",
+  "description": "An interactive academic presentation on Claude Shannon's 1949 paper 'Communication Theory of Secrecy Systems', featuring visualizations of cryptographic models.",
+  "requestFramePermissions": []
+}
